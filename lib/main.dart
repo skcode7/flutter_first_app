@@ -50,7 +50,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
   int _priceNumber = 0;
-  int _maxNumber = 10;
+  final int _maxNumber = 10;
   bool isClicVisible = true;
   bool isApuestaVisible = true;
   bool isMessageVisible = false;

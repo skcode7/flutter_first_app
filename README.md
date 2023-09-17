@@ -1,16 +1,14 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8dd8b522-46ff-40c6-9f2c-f8ec4cd6a006/deploy-status)](https://app.netlify.com/sites/apuesta-al-clic-flutter/deploys)
+
 # flutter_first_app
 
-A new Flutter project.
+Repositorio con la primera aplicación que he realizado en flutter para cumplir con el reto de la primera tormenta de código de Web Reactiva ([detalles aquí](https://github.com/webreactiva-devs/tormenta-codigo-apuesta-al-clic))
 
-## Getting Started
+## Primera versión
+Se puede apostar con clics por el número ganador (aleatorio que se genera al iniciar) y si aciertas se presenta la pantalla de felicitaciones.
 
-This project is a starting point for a Flutter application.
+Pendiente evitar que la pantalla se muestre sin pasar por el juego.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Impresiones de Flutter
+Interesante, necesitaría conocer más detalles antes de considerarlo como una herramienta que sea parte de mi stack principal.
