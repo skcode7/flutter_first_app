@@ -9,6 +9,7 @@ Se puede apostar con clics por el número ganador (aleatorio que se genera al in
 
 Pendiente evitar que la pantalla se muestre sin pasar por el juego.
 
+Jugar un poco [aquí](https://apuesta-al-clic-flutter.netlify.app)
 
 ## Impresiones de Flutter
 Interesante, necesitaría conocer más detalles antes de considerarlo como una herramienta que sea parte de mi stack principal.
